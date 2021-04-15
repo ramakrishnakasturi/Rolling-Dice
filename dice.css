@@ -1,0 +1,26 @@
+.container{
+    font-family: 'Dela Gothic One', cursive;
+    text-align:center;
+    text-justify: inter-word;
+    position:static;
+
+}
+p{
+
+    font-family: 'Zilla Slab Highlight', cursive;
+    text-align:center;
+    text-justify: inter-word;
+}
+.one{
+    position:absolute;
+    left:20%;
+    top:50%;
+}
+.two{
+    position:absolute;
+    right:20%;
+    top:50%;
+}
+body{
+    background-color:yellow;
+}
